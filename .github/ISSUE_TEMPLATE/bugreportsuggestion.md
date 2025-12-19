@@ -1,5 +1,6 @@
 ---
 name: bugReportSuggestion
+about: ug report suggestion form
 description: Bug report suggestion form
 title: "[Feature]: "
 labels: ["bug", "triage"]
